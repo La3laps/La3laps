@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @La3laps
+# 👋 Hi, I’m Rémi Legrand (@La3laps)
 
 Welcome to my GitHub profile! Check out my projects on my personal website: [alopekos.github.io](https://alopekos.github.io/)
 
